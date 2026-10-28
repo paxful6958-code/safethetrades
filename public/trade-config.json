@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "OPAY",
-  "tradeId": "9128304373",
-  "amount": "69958 EUR",
+  "paymentMethod": "Bank",
+  "tradeId": "Hhu2526",
+  "amount": "298 usd",
   "status": "waiting"
 }
