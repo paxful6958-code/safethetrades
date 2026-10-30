@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "Bank",
+  "paymentMethod": "Opay",
   "tradeId": "Hhu2526",
-  "amount": "298 usd",
+  "amount": "20",
   "status": "waiting"
 }
